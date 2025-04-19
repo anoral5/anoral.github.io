@@ -1,10 +1,10 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://le4ker.github.io/personal-jekyll-theme"
+url: "https://anoral5.github.io/"
 
 # Google tracking id
-google-tracking-id: "UA-XXXXXXXX-X"
+google-tracking-id: "G-JY5QH82DPL"
 
 #############
 # HTML Head #
@@ -50,12 +50,12 @@ paginate: 5
 email-share: True
 fb-share: True
 twitter-share: True
-linkedin-share: True
+linkedin-share: False
 reddit-share: True
 tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "personal-jekyll-theme"
 
@@ -78,7 +78,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "anoral1031@gmail.com"
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
 pgp: False
 
@@ -90,10 +90,10 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb:
-  "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional
-  engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+# author_blurb:
+#   "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional
+#   engineering projects. In his spare time, John likes to eat cotton candy."
+# author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
@@ -101,13 +101,13 @@ author_blurb_image: "/img/author.png"
 
 social:
   - icon: "github"
-    url: "https://github.com/le4ker/personal-jekyll-theme"
+    url: "https://github.com/anoral5"
   - icon: "linkedin-in"
     url: "https://www.linkedin.com"
   - icon: "x-twitter"
-    url: "https://twitter.com/"
+    url: "https://x.com/anoral5"
   - icon: "rss"
-    url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+    url: "https://anoral5.github.io/feed.xml"
 
 # NB! Tread carefully if you want to change the variables below this point!
 
